@@ -1,6 +1,6 @@
 <?php
 
-    class Rquest
+    class Request
     {
         public function isPost()
         {
